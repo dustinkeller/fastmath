@@ -1,0 +1,24 @@
+{
+  "name": "fastmath",
+  "version": "1.0.0",
+  "description": "JS game providing a fun, fast-paced math challenge!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinkeller/fastmath.git"
+  },
+  "keywords": [
+    "game",
+    "math",
+    "js"
+  ],
+  "author": "Dustin Keller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinkeller/fastmath/issues"
+  },
+  "homepage": "https://github.com/dustinkeller/fastmath#readme"
+}
